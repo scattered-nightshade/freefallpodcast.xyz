@@ -25,3 +25,8 @@ body {
     max-height: 200px;
 }
 
+.diamond {
+    max-width: 50px;
+    max-height: 50px;
+}
+
